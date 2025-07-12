@@ -1,0 +1,53 @@
+iplugg - Apple E-Commerce Website
+=========================
+
+This is a front-end Apple-themed e-commerce website developed using HTML, CSS, and JavaScript. The site showcases popular Apple products such as the iPhone 16, MacBook Air, Apple Watch, and AirPods. It features a clean and modern design with smooth interactions and responsive layout.
+
+Project Highlights
+------------------
+
+- Smooth scrolling and section navigation
+- Responsive layout for desktop and mobile
+- Interactive product sections with animations
+- Cube transition effect with controls
+- Clickable "Buy Now" and "Learn More" buttons
+- Organized product image galleries
+- Section-based structure for each product category
+
+Technologies Used
+-----------------
+
+- HTML5
+- CSS3
+- JavaScript
+- Font Awesome for icons
+
+Project Structure
+-----------------
+
+apple-ecommerce/
+│
+├── index.html → Main HTML structure
+├── style.css → Styling for layout, components, and responsiveness
+├── script.js → JavaScript for interactivity
+├── images/
+│ ├── Icons/ → Icons used for sections and nav
+│ ├── iPhones/ → iPhone 16 product images
+│ ├── MacBook/ → MacBook product images
+│ ├── watches/ → Watch bands and cases
+│ └── AirPods/ → AirPods product visuals
+
+
+
+How to Run
+----------
+
+1. Clone or download the project folder.
+2. Open the `index.html` file in any modern web browser.
+3. Make sure the `style.css`, `script.js`, and `images` folder are in the same directory level as the HTML file.
+
+Author
+------
+
+This project was built by BhavaGeetha as part of my web development practice. It focuses on creating visually rich and responsive e-commerce layouts using core front-end technologies.
+
